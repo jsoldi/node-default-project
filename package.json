@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "node-default-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "npx tsc && node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
