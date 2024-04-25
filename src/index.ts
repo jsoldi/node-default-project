@@ -1,3 +1,5 @@
-// You can import ts files without extension
+async function main() {
 
-console.log('Hello world.');
+}
+
+main();

@@ -1,11 +1,11 @@
 {
   "type": "module",
   "name": "node-default-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
-    "start": "npx tsc && node --experimental-specifier-resolution=node --no-warnings ./dist/index.js"
+    "start": "npx tsc && node ./dist/index.js"
   },
   "author": "",
   "license": "ISC",
